@@ -1,0 +1,15 @@
+one.two.three@nmu.one
+one.two.three@gmail.one
+one.two.three@gmail.com
+one.two@gmail.com
+one.two@nmu.one
+one@gmail.com
+one@nmu.one
+la1.la2.la3@gmail.com
+la1.la2.la3@nmu.com
+la1.la2.la3@nmu.one
+la1.la2.la3@mail.ru
+one.two@nmu.one
+one.two@gmail.com
+one0one@gmail.com
+one0one@nmu.one
