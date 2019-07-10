@@ -1,5 +1,4 @@
 import json
-
 import requests
 from tabulate import *
 
@@ -37,7 +36,6 @@ def print_device():
     response_json = resp.json()
     host_list = []
     i = 0
-    print(type(response_json))
     for item in response_json["response"]:
         i += 1
         host = [
